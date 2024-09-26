@@ -1,0 +1,9 @@
+name: flutter_simple_app
+description: A new Flutter project
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.11
